@@ -41,4 +41,4 @@ Git · GitHub · Docker · VS Code · REST APIs · OOP · DSA
 
 - 📧 KhangN44345@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/)
-- [Personal Website](https://khangn65719.github.io/Personal-Portfolio/Index.html)
+- 🌐 [Personal Website](https://khangn65719.github.io/Personal-Portfolio/Index.html)
