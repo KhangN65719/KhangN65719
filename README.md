@@ -26,7 +26,6 @@ Git · GitHub · Docker · VS Code · REST APIs · OOP · DSA
 | [DSA Visualizer](https://github.com/KhangN65719/dsa-visualizer) | Interactive platform to visualize data structures & algorithms with real-time animations | React · TypeScript · Vite · Framer Motion |
 | [URL Shortener](https://github.com/KhangN65719/url-shortener) | Fast URL shortening service | Go |
 | [Weather App](https://github.com/KhangN65719/weatherapp) | Live weather lookup app | JavaScript · HTML · CSS |
-| [nvim-config](https://github.com/KhangN65719/nvim-config) | Personal Neovim setup built on LazyVim | Lua |
 
 ---
 
