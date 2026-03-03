@@ -1,4 +1,4 @@
-# Hi, I'm Khang Nguyen 👋
+# Hi, I'm Khang Nguyen 
 
 Computer Science student at the **University of Illinois Chicago** (Graduating May 2027), with a strong interest in backend development, algorithms, and building projects that are clean, well-structured, and purposeful. My CS journey started at Nashville State Community College, where I built a solid foundation in C++ before transferring to UIC to go deeper into systems, algorithms, and software design.
 
@@ -6,7 +6,7 @@ Computer Science student at the **University of Illinois Chicago** (Graduating M
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages**
 C/C++ · Python · JavaScript · Go · Java · SQL · HTML · CSS
@@ -19,7 +19,7 @@ Git · GitHub · Docker · VS Code · REST APIs · OOP · DSA
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **[Full-Stack URL Shortener](https://github.com/KhangN65719/url-shortener)** *(In Progress)* — Go, Gin, GORM, SQLite, HTML, CSS, JavaScript
 A full-stack web application for shortening and redirecting URLs, built with a RESTful Go backend using Gin and persistent SQLite storage via GORM. Features a clean server-rendered frontend with form handling, input validation, and seamless redirects.
@@ -32,7 +32,7 @@ An interactive, menu-driven application for exploring and analyzing thousands of
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Expanding the URL Shortener with more features and a polished frontend
 - Building deeper backend skills with Go and REST API design
