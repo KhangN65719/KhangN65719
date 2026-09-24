@@ -1,8 +1,8 @@
 # Hi, I'm Khang Nguyen
 
-Computer Science student at the **University of Illinois Chicago**, graduating **May 2027**. I’m interested in backend development, algorithms, and turning data into useful applications.
+Computer Science student at the **University of Illinois Chicago**, graduating **May 2027**. Seeking **software engineering internships and entry-level full-time roles**, with an interest in backend development, algorithms, and data-driven applications.
 
-I started studying computer science at Nashville State Community College before transferring to UIC. My projects span C++ graph algorithms, Python and SQL data analysis, and HTTP services in Go.
+I started studying computer science at Nashville State Community College before transferring to UIC. My projects span C++ graph algorithms, Java data structures, relational database design, Python data analysis, and Go applications.
 
 [Portfolio](https://khangn65719.github.io/Personal-Portfolio/Index.html) · [LinkedIn](https://www.linkedin.com/in/khang-nguyen-b044ba279) · [Email](mailto:KhangN44345@gmail.com)
 
@@ -38,6 +38,21 @@ A backend service that creates short links and redirects visitors to their origi
 - Returns redirects for known codes and a 404 response for missing links.
 - Separates HTTP handlers from the storage layer.
 
+### [Hospital Database System](https://github.com/KhangN65719/Hospital-Database-System)
+**MySQL · Relational modeling · SQL · Transactions**
+
+A CS 480 database project modeling hospital staff, patients, treatment, room assignments, and billing across 16 tables. Includes 15 analytical queries, three reporting views, three insert-validation triggers, and transaction examples.
+
+### [Java Dictionary Implementations](https://github.com/KhangN65719/Java-Dictionary-Implementations)
+**Java · Generics · Binary search trees · Hash tables · JUnit · Maven**
+
+Two dictionary implementations behind a shared interface: a binary search tree and an open-addressed hash table with linear probing, tombstones, and resizing. The existing JUnit suite passes all 30 tests.
+
+### [Go Shape Renderer](https://github.com/KhangN65719/Go-Shape-Renderer)
+**Go · Interfaces · Raster graphics · File I/O**
+
+An interactive program that draws rectangles, triangles, and circles into a pixel buffer and exports PPM images using the standard library. Verified by building the program and checking pixels in an exported sample image.
+
 ## More projects
 
 - **[Personal Portfolio](https://github.com/KhangN65719/Personal-Portfolio)** — My website, project summaries, and background.
@@ -45,9 +60,9 @@ A backend service that creates short links and redirects visitors to their origi
 
 ## Technologies used in these projects
 
-- **Languages:** C++, Go, Python, SQL, JavaScript, HTML, CSS
-- **Backend and data:** Go’s standard HTTP library, GORM, SQLite, Matplotlib
-- **Web and tooling:** Leaflet, Vite, Git, GitHub, Make, Google Test
+- **Languages:** C++, Java, Go, Python, SQL, JavaScript, HTML, CSS
+- **Backend and data:** Go’s standard HTTP library, GORM, MySQL, SQLite, Matplotlib
+- **Web and tooling:** Leaflet, Vite, Git, GitHub, Make, Google Test, Maven, JUnit
 
 ## Currently learning
 
