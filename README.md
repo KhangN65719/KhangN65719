@@ -1,47 +1,55 @@
-# Hi, I'm Khang Nguyen 
+# Hi, I'm Khang Nguyen
 
-Computer Science student at the **University of Illinois Chicago** (Graduating May 2027), with a strong interest in backend development, algorithms, and building projects that are clean, well-structured, and purposeful. My CS journey started at Nashville State Community College, where I built a solid foundation in C++ before transferring to UIC to go deeper into systems, algorithms, and software design.
+Computer Science student at the **University of Illinois Chicago**, graduating **May 2027**. I’m interested in backend development, algorithms, and turning data into useful applications.
 
-📧 KhangN44345@gmail.com · [LinkedIn](https://www.linkedin.com/in/khang-nguyen-b044ba279) · [GitHub](https://github.com/KhangN65719) · [Portfolio](https://khangn65719.github.io/Personal-Portfolio/Index.html)
+I started studying computer science at Nashville State Community College before transferring to UIC. My projects span C++ graph algorithms, Python and SQL data analysis, and HTTP services in Go.
 
----
+[Portfolio](https://khangn65719.github.io/Personal-Portfolio/Index.html) · [LinkedIn](https://www.linkedin.com/in/khang-nguyen-b044ba279) · [Email](mailto:KhangN44345@gmail.com)
 
-## Skills
+## Selected projects
 
-**Languages**
-C/C++ · Python · JavaScript · Go · Java · SQL · HTML · CSS
+### [Campus Pathfinding System](https://github.com/KhangN65719/Campus-Pathfinding-System)
+**C++20 · Graphs · Dijkstra’s algorithm · JSON · HTTP · Leaflet**
 
-**Frameworks & Libraries**
-React · Gin · GORM
+A campus navigation application that models buildings and walkways as a weighted graph and finds walking routes with Dijkstra’s algorithm.
 
-**Tools & Concepts**
-Git · GitHub · Docker · VS Code · REST APIs · OOP · DSA
+- Builds a graph from campus map data and connects buildings to nearby walkway nodes.
+- Supports excluding intermediate vertices during route computation.
+- Includes an HTTP server and interactive map for finding buildings and displaying routes.
+- Includes Google Test suites for graph operations, graph construction, and shortest paths.
 
----
+### [Chicago Traffic Camera Data Analysis](https://github.com/KhangN65719/Chicago-Traffic-Camera-Data-Analysis)
+**Python · SQLite · SQL · Matplotlib**
 
-## Projects
+A menu-driven application for exploring Chicago’s red light and speed camera violations, built for CS 341 at UIC.
 
-**[Full-Stack URL Shortener](https://github.com/KhangN65719/url-shortener)** *(In Progress)* — Go, Gin, GORM, SQLite, HTML, CSS, JavaScript
-A full-stack web application for shortening and redirecting URLs, built with a RESTful Go backend using Gin and persistent SQLite storage via GORM. Features a clean server-rendered frontend with form handling, input validation, and seamless redirects.
+- Searches intersections and cameras using parameterized SQL queries.
+- Aggregates violations by camera, intersection, month, and year.
+- Plots trends and camera locations with Matplotlib.
+- Separates database queries, data processing, and the command-line interface into distinct layers.
 
-**Campus Pathfinding System** — C++, Graphs, Dijkstra's Algorithm, JSON
-A navigation tool that computes the shortest walking route between campus buildings using Dijkstra's algorithm. Parses JSON map data to construct a weighted adjacency-list graph and handles real-world constraints like blocked paths and ignored vertices.
+### [URL Shortener](https://github.com/KhangN65719/url-shortener)
+**Go · net/http · GORM · SQLite** — In progress
 
-**Chicago Traffic Camera Data Analysis** — Python, SQLite, SQL, Matplotlib
-An interactive, menu-driven application for exploring and analyzing thousands of Chicago traffic camera violation records. Features complex SQL queries for trends by camera, intersection, and date, alongside Matplotlib visualizations plotting time-series data and geographic camera locations on a city map.
+A backend service that creates short links and redirects visitors to their original URLs.
 
----
+- Accepts URL submissions through an HTTP endpoint and generates six-character short codes.
+- Stores URL mappings in SQLite through GORM and reuses codes for previously submitted URLs.
+- Returns redirects for known codes and a 404 response for missing links.
+- Separates HTTP handlers from the storage layer.
 
-## Currently Learning
+## More projects
 
-- Expanding the URL Shortener with more features and a polished frontend
-- Building deeper backend skills with Go and REST API design
-- Exploring more advanced DSA topics and algorithm visualizations
+- **[Personal Portfolio](https://github.com/KhangN65719/Personal-Portfolio)** — My website, project summaries, and background.
+- **[Weather App](https://github.com/KhangN65719/Weather-App)** — A JavaScript project using OpenWeatherMap’s geocoding and weather APIs to display current conditions by city.
 
----
+## Technologies used in these projects
 
-## 📫 Let's Connect
+- **Languages:** C++, Go, Python, SQL, JavaScript, HTML, CSS
+- **Backend and data:** Go’s standard HTTP library, GORM, SQLite, Matplotlib
+- **Web and tooling:** Leaflet, Vite, Git, GitHub, Make, Google Test
 
-- 📧 KhangN44345@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/khang-nguyen-b044ba279)
-- 🌐 [Personal Website](https://khangn65719.github.io/Personal-Portfolio/Index.html)
+## Currently learning
+
+- Backend development with Go and HTTP APIs
+- Data structures, graph algorithms, and software design
