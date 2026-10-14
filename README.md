@@ -48,15 +48,17 @@ A CS 480 database project modeling hospital staff, patients, treatment, room ass
 
 Two dictionary implementations behind a shared interface: a binary search tree and an open-addressed hash table with linear probing, tombstones, and resizing. The existing JUnit suite passes all 30 tests.
 
-### [Go Shape Renderer](https://github.com/KhangN65719/Go-Shape-Renderer)
-**Go · Interfaces · Raster graphics · File I/O**
+### [Networked Checkers](https://github.com/KhangN65719/Networked-Checkers)
+**Java · JavaFX · TCP sockets · Multithreading**
 
-An interactive program that draws rectangles, triangles, and circles into a pixel buffer and exports PPM images using the standard library. Verified by building the program and checking pixels in an exported sample image.
+A desktop checkers game with multiplayer matchmaking, a computer opponent, in-game chat, rematches, and English/Spanish controls. Separate client and server applications communicate over TCP.
 
 ## More projects
 
 - **[Personal Portfolio](https://github.com/KhangN65719/Personal-Portfolio)** — My website, project summaries, and background.
-- **[Weather App](https://github.com/KhangN65719/Weather-App)** — A JavaScript project using OpenWeatherMap’s geocoding and weather APIs to display current conditions by city.
+
+- **[Go Shape Renderer](https://github.com/KhangN65719/Go-Shape-Renderer)** — A small Go graphics exercise with shapes, a pixel buffer, and PPM export.
+- **[GitHub Activity Bot](https://github.com/KhangN65719/github-activity-bot)** — A Go tool that collects GitHub commit activity and emails a daily digest.
 
 ## Technologies used in these projects
 
